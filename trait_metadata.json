@@ -1,0 +1,9 @@
+{
+  "traits" : {
+    "badldness_likelyhood" : {
+      "name": "baldness likelihood",
+      "trait_description" : "Male-pattern baldness (MPB) is a highly heritable trait and the most common form of hair loss among men",
+      "publications": ["https://www.nature.com/articles/s41467-017-01490-8", "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006594"]
+    }
+  }
+}
