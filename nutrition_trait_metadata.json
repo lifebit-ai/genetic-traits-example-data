@@ -1,0 +1,64 @@
+{
+  "traits" : {
+    "vitamin_a" : {
+      "name": "Vitamin A Metabolism",
+      "trait_description" : "Vitamin & Mineral Metabolism is intrinsically linked to genetics. Identifying whether you have a low og high metabolsim can help you make decisions on supplements. A high metabolism suggests that you are able to utilise dietary vitamins and minerals better than someone with low metabolism. With low metabolism, you may need to take supplements to get enough into your diet.",
+      "publications": ["https://www.ukbiobank.ac.uk/2017/09/dr-raya-khanin-study-of-the-effect-of-genetic-variants-in-vitamin-and-mineral-metabolic-pathways-on-health-outcomes/"]
+    },
+    "vitamin_b6" : {
+      "name": "Vitamin B6 Metabolism",
+      "trait_description" : "Vitamin & Mineral Metabolism is intrinsically linked to genetics. Identifying whether you have a low og high metabolsim can help you make decisions on supplements. A high metabolism suggests that you are able to utilise dietary vitamins and minerals better than someone with low metabolism. With low metabolism, you may need to take supplements to get enough into your diet.",
+      "publications": ["https://www.ukbiobank.ac.uk/2017/09/dr-raya-khanin-study-of-the-effect-of-genetic-variants-in-vitamin-and-mineral-metabolic-pathways-on-health-outcomes/"]
+    },
+    "vitamin_b12" : {
+      "name": "Vitamin B12 Metabolism",
+      "trait_description" : "Vitamin & Mineral Metabolism is intrinsically linked to genetics. Identifying whether you have a low og high metabolsim can help you make decisions on supplements. A high metabolism suggests that you are able to utilise dietary vitamins and minerals better than someone with low metabolism. With low metabolism, you may need to take supplements to get enough into your diet.",
+      "publications": ["https://www.ukbiobank.ac.uk/2017/09/dr-raya-khanin-study-of-the-effect-of-genetic-variants-in-vitamin-and-mineral-metabolic-pathways-on-health-outcomes/"]
+    },
+    "vitamin_c" : {
+      "name": "Vitamin C Metabolism",
+      "trait_description" : "Vitamin & Mineral Metabolism is intrinsically linked to genetics. Identifying whether you have a low og high metabolsim can help you make decisions on supplements. A high metabolism suggests that you are able to utilise dietary vitamins and minerals better than someone with low metabolism. With low metabolism, you may need to take supplements to get enough into your diet.",
+      "publications": ["https://www.ukbiobank.ac.uk/2017/09/dr-raya-khanin-study-of-the-effect-of-genetic-variants-in-vitamin-and-mineral-metabolic-pathways-on-health-outcomes/"]
+    },
+    "vitamin_d" : {
+      "name": "Vitamin D Metabolism",
+      "trait_description" : "Vitamin & Mineral Metabolism is intrinsically linked to genetics. Identifying whether you have a low og high metabolsim can help you make decisions on supplements. A high metabolism suggests that you are able to utilise dietary vitamins and minerals better than someone with low metabolism. With low metabolism, you may need to take supplements to get enough into your diet.",
+      "publications": ["https://www.ukbiobank.ac.uk/2017/09/dr-raya-khanin-study-of-the-effect-of-genetic-variants-in-vitamin-and-mineral-metabolic-pathways-on-health-outcomes/"]
+    },
+    "vitamin_e" : {
+      "name": "Vitamin E Metabolism",
+      "trait_description" : "Vitamin & Mineral Metabolism is intrinsically linked to genetics. Identifying whether you have a low og high metabolsim can help you make decisions on supplements. A high metabolism suggests that you are able to utilise dietary vitamins and minerals better than someone with low metabolism. With low metabolism, you may need to take supplements to get enough into your diet.",
+      "publications": ["https://www.ukbiobank.ac.uk/2017/09/dr-raya-khanin-study-of-the-effect-of-genetic-variants-in-vitamin-and-mineral-metabolic-pathways-on-health-outcomes/"]
+    },
+    "iron" : {
+      "name": "Iron Metabolism",
+      "trait_description" : "Vitamin & Mineral Metabolism is intrinsically linked to genetics. Identifying whether you have a low og high metabolsim can help you make decisions on supplements. A high metabolism suggests that you are able to utilise dietary vitamins and minerals better than someone with low metabolism. With low metabolism, you may need to take supplements to get enough into your diet.",
+      "publications": ["https://www.ukbiobank.ac.uk/2017/09/dr-raya-khanin-study-of-the-effect-of-genetic-variants-in-vitamin-and-mineral-metabolic-pathways-on-health-outcomes/"]
+    },
+    "calcium" : {
+      "name": "Calcium Metabolism",
+      "trait_description" : "Vitamin & Mineral Metabolism is intrinsically linked to genetics. Identifying whether you have a low og high metabolsim can help you make decisions on supplements. A high metabolism suggests that you are able to utilise dietary vitamins and minerals better than someone with low metabolism. With low metabolism, you may need to take supplements to get enough into your diet.",
+      "publications": ["https://www.ukbiobank.ac.uk/2017/09/dr-raya-khanin-study-of-the-effect-of-genetic-variants-in-vitamin-and-mineral-metabolic-pathways-on-health-outcomes/"]
+    },
+    "magnesium" : {
+      "name": "Magnesium Metabolism",
+      "trait_description" : "Vitamin & Mineral Metabolism is intrinsically linked to genetics. Identifying whether you have a low og high metabolsim can help you make decisions on supplements. A high metabolism suggests that you are able to utilise dietary vitamins and minerals better than someone with low metabolism. With low metabolism, you may need to take supplements to get enough into your diet.",
+      "publications": ["https://www.ukbiobank.ac.uk/2017/09/dr-raya-khanin-study-of-the-effect-of-genetic-variants-in-vitamin-and-mineral-metabolic-pathways-on-health-outcomes/"]
+    },
+    "zinc" : {
+      "name": "Zinc Metabolism",
+      "trait_description" : "Vitamin & Mineral Metabolism is intrinsically linked to genetics. Identifying whether you have a low og high metabolsim can help you make decisions on supplements. A high metabolism suggests that you are able to utilise dietary vitamins and minerals better than someone with low metabolism. With low metabolism, you may need to take supplements to get enough into your diet.",
+      "publications": ["https://www.ukbiobank.ac.uk/2017/09/dr-raya-khanin-study-of-the-effect-of-genetic-variants-in-vitamin-and-mineral-metabolic-pathways-on-health-outcomes/"]
+    },
+    "selenium" : {
+      "name": "Selenium Metabolism",
+      "trait_description" : "Vitamin & Mineral Metabolism is intrinsically linked to genetics. Identifying whether you have a low og high metabolsim can help you make decisions on supplements. A high metabolism suggests that you are able to utilise dietary vitamins and minerals better than someone with low metabolism. With low metabolism, you may need to take supplements to get enough into your diet.",
+      "publications": ["https://www.ukbiobank.ac.uk/2017/09/dr-raya-khanin-study-of-the-effect-of-genetic-variants-in-vitamin-and-mineral-metabolic-pathways-on-health-outcomes/"]
+    },
+    "omega_3" : {
+      "name": "Omega 3 Metabolism",
+      "trait_description" : "Vitamin & Mineral Metabolism is intrinsically linked to genetics. Identifying whether you have a low og high metabolsim can help you make decisions on supplements. A high metabolism suggests that you are able to utilise dietary vitamins and minerals better than someone with low metabolism. With low metabolism, you may need to take supplements to get enough into your diet.",
+      "publications": ["https://www.ukbiobank.ac.uk/2017/09/dr-raya-khanin-study-of-the-effect-of-genetic-variants-in-vitamin-and-mineral-metabolic-pathways-on-health-outcomes/"]
+    }
+  }
+}
