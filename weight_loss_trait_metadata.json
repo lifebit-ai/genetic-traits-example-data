@@ -1,0 +1,84 @@
+{
+  "traits" : {
+    "total_protein" : {
+      "name": "Metabolic response to proteins",
+      "trait_description" : "Genetic association of various protein metabolism.",
+      "publications": ["https://atlas.ctglab.nl/traitDB/4104"]
+    },
+    "saturated+fatty_acid_response" : {
+      "name": "Lipid/Saturated Fatty Acid response",
+      "trait_description" : "Lipid/Saturated Fatty Acid Metabolism is intrinsically linked to genetics. Identifying whether you have a low or high metabolsim can help you make decisions on supplements.",
+      "publications": ["https://ukb-imp.oss-us-west-1.aliyuncs.com/100007.v1.1.fastGWA.gz"]
+    },
+    "polyunsaturated_fa_response" : {
+      "name": "Polyunsaturated FA response",
+      "trait_description" : "Polyunsaturated Fatty Acid Metabolism is intrinsically linked to genetics. Identifying whether you have a low or high metabolsim can help you make decisions on supplements.",
+      "publications": ["http://fastgwa.info/ukbimp/pheno/100006"]
+    },
+    "englyst_dietary_fibre" : {
+      "name": "Fiber response",
+      "trait_description" : "Genetic association of fibre metabolism.",
+      "publications": ["http://fastgwa.info/ukbimp/pheno/100009"]
+    },
+    "savoury_snack_consumers" : {
+      "name": "Snacking pattern",
+      "trait_description" : "Genetic liklihood of having multiple small meals during the day.",
+      "publications": ["http://fastgwa.info/ukbimp/pheno/102400"]
+    },
+    "total_fattty_acids" : {
+      "name": "Total fatty acids",
+      "trait_description" : "Genetic association of total fatty acid intake.",
+      "publications": ["https://atlas.ctglab.nl/traitDB/948"]
+    },
+    "endurance" : {
+      "name": "Endurance Potential",
+      "trait_description" : "Genetic liklihood of ability in strenuous sports or other exercises.",
+      "publications": ["www.ncbi.nlm.nih.gov/pubmed/29899525"]
+    },
+    "power_potential" : {
+      "name": "Power Potential",
+      "trait_description" : "Hand grip strength is strongly correlated to over-all inrinsic strength capacity. This shows the genetic association of power potential.",
+      "publications": ["http://fastgwa.info/ukbimp/pheno/47"]
+    },
+    "reduced_heart_beat_response_to_exercise" : {
+      "name": "Reduced Heart Beat Response to Exercise",
+      "trait_description" : "The genetic association between the long-term effect of exercise and its correlation to a decreasing resting heart-rate.",
+      "publications": ["http://fastgwa.info/ukbimp/pheno/5984"]
+    },
+    "aversion_to_exercise" : {
+      "name": "Aversion to Exercise",
+      "trait_description" : "Genetic liklihood that someone is unwilling to do regular exercise.",
+      "publications": ["http://fastgwa.info/ukbimp/pheno/3637"]
+    },
+    "potential_for_lean_body_mass" : {
+      "name": "Potential for Lean Body Mass",
+      "trait_description" : "Genetic liklihood of maintaining lean body mass.",
+      "publications": ["http://fastgwa.info/ukbimp/pheno/23101"]
+    },
+    "obesity" : {
+      "name": "Potential for Obesity",
+      "trait_description" : "Genetic risk of being obese in adulthood.",
+      "publications": ["https://atlas.ctglab.nl/traitDB/120"]
+    },
+    "basal_metabolic_rate" : {
+        "name": "Slow Metabolism",
+        "trait_description" : "Genetic risk of having a slow metabolsim.",
+        "publications": ["http://fastgwa.info/ukbimp/pheno/23105"]
+    },
+    "stress_fracture_risk" : {
+        "name": "Stress Fracture Risk",
+        "trait_description" : "Genetic risk of having a stress related bone fracture.",
+        "publications": ["https://atlas.ctglab.nl/traitDB/4329"]
+    },
+    "rotator_cuff_risk" : {
+        "name": "Rotator Cuff risk",
+        "trait_description" : "Genetic risk of achieving an injury to the rotator cuff.",
+        "publications": ["https://atlas.ctglab.nl/traitDB/4046"]
+    },
+    "overall_bone_mineral_density" : {
+        "name": "Overall Bone Mineral Density",
+        "trait_description" : "Genetic association of bone mineral density as a measure of protection against fracture.",
+        "publications": ["https://atlas.ctglab.nl/traitDB/3926"]
+    }
+  }
+}
